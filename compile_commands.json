@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/azureuser/Documents/cppwebapp/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -IC:/Users/azureuser/Documents/cppwebapp/boost_1_84_0_rc1/boost_1_84_0 -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\app.dir\\main.cc.obj -c C:\\Users\\azureuser\\Documents\\cppwebapp\\main.cc",
+  "file": "C:\\Users\\azureuser\\Documents\\cppwebapp\\main.cc",
+  "output": "CMakeFiles\\app.dir\\main.cc.obj"
+}
+]
